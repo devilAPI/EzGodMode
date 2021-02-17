@@ -7,7 +7,7 @@ Windows GodMode is basically just a Folder listing all Control Panel Utilities i
 ## Installation
 
 ### Automatic (recommended)
-- Download the Latest Version of EzGodMode [here](https://github.com/devilAPI/EzGodMode/releases/tag/1.0.0) and run EzGodModeInstaller.bat.
+- Download the Latest Version of EzGodMode [here](https://github.com/devilAPI/EzGodMode/releases/latest) and run EzGodModeInstaller.bat.
 - In the Folder where you executed the Installer, you should see a new Folder, called nothing or "EzGodMode".
 - Done.
 
