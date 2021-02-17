@@ -13,5 +13,8 @@ Windows GodMode is basically just a Folder listing all Control Panel Utilities i
 
 ### Manual
 - Copy this: ```EzGodMode.{ED7BA470-8E54-465E-825C-99712043E01C}```
-- Create a new Folder and paste.
+- Create a new Folder
+- Change the Name of the Folder to the Code we just copied
+- Make sure its correct
+- Save
 - Done.
